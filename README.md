@@ -6,7 +6,7 @@ Inventory Management System using python and No SQL Datasets (json).</p>
 <li>
 <ol>User Can Update new items in the file</ol>
 <ol User Can sells something and maintain the record
-</ol></li>
+</ol></li> 
 
 
 
